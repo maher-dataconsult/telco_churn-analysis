@@ -16,14 +16,14 @@
   - [Thank you](#thank-you)
 
 ## **About the Dataset**
-- The dataset used is **`kaggle publicly available`** 
+The dataset used is **`kaggle publicly available`** 
     and contains information on customers:
-        - **Demographics**: 
-            - Gender, senior citizen status, partner status, and dependents.
-        - **Account Information**: 
-            - Contract type, payment method, and monthly charges.
-        - **Services**: 
-            - Internet service, online security, device protection, and more..
+1. **Demographics**: 
+    - Gender, senior citizen status, partner status, and dependents.
+2. **Account Information**: 
+    - Contract type, payment method, and monthly charges.
+3. **Services**: 
+    - Internet service, online security, device protection, and more..
 
 ## **Cleaning**
 1. Our dataset consisted of a total of **`7043 rows`** and **`21 columns`** .
